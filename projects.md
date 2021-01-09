@@ -25,5 +25,5 @@ permalink: /projects/
 - #### [Solving Raven’s Progressive Matrices](https://tinyurl.com/umyhpsr)
 <span style="font-size:0.9em;"> Designed an AI agent which solved 2x2 and 3x3 Raven's Progressive Matrices problems. The agent used Knowledge-Based AI concepts like case-based reasoning, semantic networks, and production systems to determine the optimal solution from the images and solve the problems. [Python 3, Pillow] </span>
 
-- #### [Artistic Strokes for Images](https://tinyurl.com/umyhpsr)
+- #### [Artistic Strokes for Images](https://aditics.github.io/Painterly/)
 <span style="font-size:0.9em;"> Built an application in Python 3 and OpenCV that would render photographs in various painting style filters. The final image is formed by merging multiple layers of painterly layers. Each layer represents an image rendered with brush strokes of a specific radius, using different style parameters to simulate strokes in various styles like Impressionist, Expressionist, Colorist Wash, Pointillist or a Generic style. [Python 3, OpenCV] </span>
