@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Arvind"
-title_right   : "Krishnakumar"
+title_left    : "Aditi"
+title_right   : "Shetty"
 description   : 
 keywords      : 
-url           : https://akrishna77.github.io # site url
+url           : https://aditics.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -28,12 +28,10 @@ sass:
 
 # Author settings
 author:
-  name     : "Arvind Krishnakumar"
-  email    : "mailto:akrishna[at]gatech[dot]edu"
-  github   : "https://github.com/akrishna77"
-  linkedin : "https://www.linkedin.com/in/arvind-krishnakumar/"
-  instagram: "https://www.instagram.com/arvsome/"
-  twitter  : "https://twitter.com/arvsome7"
+  name     : "Aditi Shetty"
+  email    : "mailto:ashetty67[at]gatech[dot]edu"
+  github   : "https://github.com/aditics/"
+  linkedin : "https://www.linkedin.com/in/aditishetty/"
 
 plugins:
   - jekyll-sitemap
