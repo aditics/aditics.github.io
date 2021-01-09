@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-- #### [Face Mask Detection](https://aditics.github.io/Face-Mask-Detection/docs)
+- #### [Face Mask Detection](https://aditics.github.io/Face-Mask-Detection/)
 <span style="font-size:0.9em;"> Built a machine learning model to detect face masks in images having full-frontal faces, by performing feature extraction using pretrained CNN models like ResNet50. Performed classification of features using decision trees, logistic regression, and SVM model. [Python 3, TensorFlow, scikit-learn] </span>
 
 - #### [Text Classification, Prediction and Bias Extraction using NLP](https://tinyurl.com/rb2q6ex)
