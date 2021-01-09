@@ -4,26 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
-- #### [Multihop Question Answering](https://akrishna77.github.io/multihop-qa/)
-<span style="font-size:0.9em;"> Reproduced experiments for two published papers, DecompRC and Graph-based Recurrent Retriever and verified their validity and conclusions for the task of multihop question answering. Experimented by combining the merits of the two models to develop and evaluate an alternative approach to solving the same task and presented our results on the HotpotQA dataset. </span>
+- #### [Face Mask Detection](https://akrishna77.github.io/multihop-qa/)
+<span style="font-size:0.9em;"> Built a machine learning model to detect face masks in images having full-frontal faces, by performing feature extraction using pretrained CNN models like ResNet50. Performed classification of features using decision trees, logistic regression, and SVM model. [Python 3, TensorFlow, scikit-learn] </span>
 
-- #### [Grayscale Video Colorization](https://tinyurl.com/rb2q6ex)
-<span style="font-size:0.9em;"> Built a system that automatically colorizes grayscale videos and historical films, in an effort to restore videos to their original colors. </span>
+- #### [Text Classification, Prediction and Bias Extraction using NLP](https://tinyurl.com/rb2q6ex)
+<span style="font-size:0.9em;"> Developed a Naïve Bayes classifier with unigram bag-of-words features and a Logistic Regression classifier that identified hate speech in a real-world hate-speech classification dataset. Implemented word and character level n-gram language models and character-level RNN model to predict the next word given a sequence of words in a text. Used pre-trained GenSim models to extract similarities, analogies, semantics, and visualization of word embeddings to identify cultural biases in text. [Python 3, PyTorch, word2vec] </span>
 
-- #### [Deep Reinforcement Learning to Mastermind Settlers of Catan](https://akrishna77.github.io/QSettlers/)
-<span style="font-size:0.9em;"> Developed an agent to play the game, Settlers of Catan in its entirety, using a Deep Q-Network agent that can utilize gameplay mechanics and outperform both current state-of-the-art agents and humans. </span>
+- #### [Detection of Traffic Sign and Lights](https://akrishna77.github.io/QSettlers/)
+<span style="font-size:0.9em;"> Designed and implemented a program that detected traffic signs and lights using Hough algorithms to identify shapes and select objects based on pixel location and properties. </span>
 
-- #### [Visual Relationship Detection](https://akrishna77.github.io/visual-relationships/)
-<span style="font-size:0.9em;"> Proposed a few-shot learning based approach to detect objects of interest in an image, given a specific predicate relationship that has been highlighted through text input. </span>
+- #### [Patient Nutrition Tool](https://akrishna77.github.io/visual-relationships/)
+<span style="font-size:0.9em;"> Built a web application for hospitals to enable customized nutrition and diet restrictions of patients based on their medical history of allergies and medication. [Java Spring Boot, MyBatis, MySQL, FHIR server] </span>
 
-- #### [Visual Essence](https://akrishna77.github.io/CS8903-Essence/)
-<span style="font-size:0.9em;"> Working on vision research in the creative AI space under [Dr. Devi Parikh](https://www.cc.gatech.edu/~parikh), focusing on obtaining a visual representation that adequately conveys the essence of a person's description of themselves. </span>
+- #### [A Visualization Approach of Business Location Recommendation](https://akrishna77.github.io/CS8903-Essence/)
+<span style="font-size:0.9em;"> Developed an application that allowed potential business owners to choose the geographic location of new businesses. Various approaches like sentiment analysis(NLTK), LDA topic modeling and K-means clustering(scikit-learn) were used to study and visualize business data from the Yelp dataset. [Python 3, React, Tableau, NLTK, scikit-learn] </span>
 
-- #### [Bias Discovery](https://akrishna77.github.io/#/)
-<span style="font-size:0.9em;"> Working on vision research in the algorithmic fairness space under [Dr. Judy Hoffman](https://www.cc.gatech.edu/~judy), focusing on detecting potentially unfair model biases via unsupervised discovery of dataset subpopulations with varying performance. </span>
+- #### [Machine Learning for Trading](https://akrishna77.github.io/#/)
+<span style="font-size:0.9em;"> Created a portfolio management system for trading using different machine learning algorithms like Decision Trees, Random Tree and Ensemble learners to beat the benchmark prices. [Python 3, Numpy, Pandas] </span>
 
-- #### [Information Retrieval across Indic Scripts](https://tinyurl.com/umyhpsr)
-<span style="font-size:0.9em;"> Developed an Indic script web search engine (Hindi, Tamil, English) that involved querying and retrieving results in more than one language. Proposed a new ranking algorithm based on query intent by applying classification and heuristics on multilingual queries. This project was submitted and accepted as my undergraduate thesis under the advise of [Dr. Ranjani Parthasarathi](https://scholar.google.co.in/citations?user=SMhTwtYAAAAJ&hl=en). </span>
+- #### [Solving Raven’s Progressive Matrices](https://tinyurl.com/umyhpsr)
+<span style="font-size:0.9em;"> Designed an AI agent which solved 2x2 and 3x3 Raven's Progressive Matrices problems. The agent used Knowledge-Based AI concepts like case-based reasoning, semantic networks, and production systems to determine the optimal solution from the images and solve the problems. [Python 3, Pillow] </span>
 
-<!-- - #### AnswerMe
-Implemented a web service that provides answers to questions on an exercise sheet. It initially uses OCR to retrieve the text from the scanned image of the sheet and then uses a web search API to obtain the most relevant answers. -->
+- #### [Artistic Strokes for Images](https://tinyurl.com/umyhpsr)
+<span style="font-size:0.9em;"> Built an application in Python 3 and OpenCV that would render photographs in various painting style filters. The final image is formed by merging multiple layers of painterly layers. Each layer represents an image rendered with brush strokes of a specific radius, using different style parameters to simulate strokes in various styles like Impressionist, Expressionist, Colorist Wash, Pointillist or a Generic style. [Python 3, OpenCV] </span>
