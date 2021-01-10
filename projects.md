@@ -10,7 +10,7 @@ permalink: /projects/
 - #### [Text Classification, Prediction and Bias Extraction using NLP](https://aditics.github.io/NLP/)
 <span style="font-size:0.9em;"> Developed a Naïve Bayes classifier with unigram bag-of-words features and a Logistic Regression classifier that identified hate speech in a real-world hate-speech classification dataset. Implemented word and character level n-gram language models and character-level RNN model to predict the next word given a sequence of words in a text. Used pre-trained GenSim models to extract similarities, analogies, semantics, and visualization of word embeddings to identify cultural biases in text. [Python 3, PyTorch, word2vec] </span>
 
-- #### [Detection of Traffic Sign and Lights](https://akrishna77.github.io/QSettlers/)
+- #### [Detection of Traffic Sign and Lights](https://aditics.github.io/Traffic-Light-Sign-Detection/)
 <span style="font-size:0.9em;"> Designed and implemented a program that detected traffic signs and lights using Hough algorithms to identify shapes and select objects based on pixel location and properties. </span>
 
 - #### [Patient Nutrition Tool](https://aditics.github.io/Patient-Nutrition-Tool/)
