@@ -13,7 +13,7 @@ permalink: /projects/
 - #### [Detection of Traffic Sign and Lights](https://akrishna77.github.io/QSettlers/)
 <span style="font-size:0.9em;"> Designed and implemented a program that detected traffic signs and lights using Hough algorithms to identify shapes and select objects based on pixel location and properties. </span>
 
-- #### [Patient Nutrition Tool]((https://aditics.github.io/Patient-Nutrition-Tool/)
+- #### [Patient Nutrition Tool](https://aditics.github.io/Patient-Nutrition-Tool/)
 <span style="font-size:0.9em;"> Built a web application for hospitals to enable customized nutrition and diet restrictions of patients based on their medical history of allergies and medication. [Java Spring Boot, MyBatis, MySQL, FHIR server] </span>
 
 - #### [A Visualization Approach of Business Location Recommendation](https://aditics.github.io/DVA/)
