@@ -7,7 +7,7 @@ permalink: /projects/
 - #### [Face Mask Detection](https://aditics.github.io/Face-Mask-Detection/)
 <span style="font-size:0.9em;"> Built a machine learning model to detect face masks in images having full-frontal faces, by performing feature extraction using pretrained CNN models like ResNet50. Performed classification of features using decision trees, logistic regression, and SVM model. [Python 3, TensorFlow, scikit-learn] </span>
 
-- #### [Text Classification, Prediction and Bias Extraction using NLP](https://tinyurl.com/rb2q6ex)
+- #### [Text Classification, Prediction and Bias Extraction using NLP](https://aditics.github.io/NLP/)
 <span style="font-size:0.9em;"> Developed a Naïve Bayes classifier with unigram bag-of-words features and a Logistic Regression classifier that identified hate speech in a real-world hate-speech classification dataset. Implemented word and character level n-gram language models and character-level RNN model to predict the next word given a sequence of words in a text. Used pre-trained GenSim models to extract similarities, analogies, semantics, and visualization of word embeddings to identify cultural biases in text. [Python 3, PyTorch, word2vec] </span>
 
 - #### [Detection of Traffic Sign and Lights](https://akrishna77.github.io/QSettlers/)
