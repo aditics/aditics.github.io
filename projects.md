@@ -16,7 +16,7 @@ permalink: /projects/
 - #### [Patient Nutrition Tool](https://akrishna77.github.io/visual-relationships/)
 <span style="font-size:0.9em;"> Built a web application for hospitals to enable customized nutrition and diet restrictions of patients based on their medical history of allergies and medication. [Java Spring Boot, MyBatis, MySQL, FHIR server] </span>
 
-- #### [A Visualization Approach of Business Location Recommendation](https://akrishna77.github.io/CS8903-Essence/)
+- #### [A Visualization Approach of Business Location Recommendation](https://aditics.github.io/DVA/)
 <span style="font-size:0.9em;"> Developed an application that allowed potential business owners to choose the geographic location of new businesses. Various approaches like sentiment analysis(NLTK), LDA topic modeling and K-means clustering(scikit-learn) were used to study and visualize business data from the Yelp dataset. [Python 3, React, Tableau, NLTK, scikit-learn] </span>
 
 - #### [Machine Learning for Trading](https://akrishna77.github.io/#/)
